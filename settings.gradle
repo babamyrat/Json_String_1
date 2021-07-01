@@ -1,0 +1,2 @@
+rootProject.name = "Json String 1"
+include ':app'
